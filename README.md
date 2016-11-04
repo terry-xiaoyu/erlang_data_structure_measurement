@@ -1,0 +1,2 @@
+# erlang_data_structure_measurement
+performance measurements
